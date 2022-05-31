@@ -19,13 +19,14 @@ Fora do horário de aula ou monitoria:
 
 ## Slides
 
-| slides                                                                                                  | pdf                                              |
-| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------- |
-| [00-intro-curso.html](https://curso-r.github.io/main-intro-ml/slides/00-intro-curso.html)               | [NA](https://curso-r.github.io/main-intro-ml/NA) |
-| [01-intro-ml.html](https://curso-r.github.io/main-intro-ml/slides/01-intro-ml.html)                     | [NA](https://curso-r.github.io/main-intro-ml/NA) |
-| [03-modelos-de-arvores.html](https://curso-r.github.io/main-intro-ml/slides/03-modelos-de-arvores.html) | [NA](https://curso-r.github.io/main-intro-ml/NA) |
-| [html](https://curso-r.github.io/main-intro-ml/slides/03-modelos-de-arvores_cache/html)                 | [NA](https://curso-r.github.io/main-intro-ml/NA) |
-| [04-dataprep.html](https://curso-r.github.io/main-intro-ml/slides/04-dataprep.html)                     | [NA](https://curso-r.github.io/main-intro-ml/NA) |
+| slides                                                                                                    | pdf                                                                                                     |
+| :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+| [00-intro-curso.html](https://curso-r.github.io/main-intro-ml/slides/00-intro-curso.html)                 | [00-intro-curso.pdf](https://curso-r.github.io/main-intro-ml/slides/00-intro-curso.pdf)                 |
+| [01-intro-ml.html](https://curso-r.github.io/main-intro-ml/slides/01-intro-ml.html)                       | [01-intro-ml.pdf](https://curso-r.github.io/main-intro-ml/slides/01-intro-ml.pdf)                       |
+| [02-intro-classificacao.html](https://curso-r.github.io/main-intro-ml/slides/02-intro-classificacao.html) | [02-intro-classificacao.pdf](https://curso-r.github.io/main-intro-ml/slides/02-intro-classificacao.pdf) |
+| [03-dataprep-pt2.html](https://curso-r.github.io/main-intro-ml/slides/03-dataprep-pt2.html)               | [NA](https://curso-r.github.io/main-intro-ml/NA)                                                        |
+| [03-modelos-de-arvores.html](https://curso-r.github.io/main-intro-ml/slides/03-modelos-de-arvores.html)   | [03-modelos-de-arvores.pdf](https://curso-r.github.io/main-intro-ml/slides/03-modelos-de-arvores.pdf)   |
+| [html](https://curso-r.github.io/main-intro-ml/slides/03-modelos-de-arvores_cache/html)                   | [NA](https://curso-r.github.io/main-intro-ml/NA)                                                        |
 
 ## Scripts utilizados em aula
 
@@ -34,14 +35,12 @@ Fora do horário de aula ou monitoria:
 
 ## Lição de casa
 
-| exercicio                                                                                                          |
-| :----------------------------------------------------------------------------------------------------------------- |
-| [exercicios/01-tidymodels.R](https://curso-r.github.io/main-intro-ml/exercicios/01-tidymodels.R)                   |
-| [exercicios/02-overfitting.R](https://curso-r.github.io/main-intro-ml/exercicios/02-overfitting.R)                 |
-| [exercicios/03-cross-validation.R](https://curso-r.github.io/main-intro-ml/exercicios/03-cross-validation.R)       |
-| [exercicios/04-regressao-linear.R](https://curso-r.github.io/main-intro-ml/exercicios/04-regressao-linear.R)       |
-| [exercicios/05-regressao-logistica.R](https://curso-r.github.io/main-intro-ml/exercicios/05-regressao-logistica.R) |
-| [exercicios/06-random-forest.R](https://curso-r.github.io/main-intro-ml/exercicios/06-random-forest.R)             |
+| exercicio                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------- |
+| [exercicios/01-tuning.R](https://curso-r.github.io/main-intro-ml/exercicios/01-tuning.R)                       |
+| [exercicios/02-classification.R](https://curso-r.github.io/main-intro-ml/exercicios/02-classification.R)       |
+| [exercicios/03-arvore-de-decisao.R](https://curso-r.github.io/main-intro-ml/exercicios/03-arvore-de-decisao.R) |
+| [exercicios/04-random-forest.R](https://curso-r.github.io/main-intro-ml/exercicios/04-random-forest.R)         |
 
 ## Trabalhos finais premiados
 
