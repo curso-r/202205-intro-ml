@@ -49,6 +49,7 @@ Fora do horário de aula ou monitoria:
 paths <- CursoRopen:::list_github_files(params$main_repo, "slides/", "[0-9]-.*html$") %>% 
   tibble::enframe(value = "paths") %>% 
   dplyr::filter(!stringr::str_detect(paths, "figure-html")) %>% 
+  dplyr::filter(!stringr::str_detect(paths, "cache")) %>% 
   dplyr::mutate(file_path_sem_extencao = tools::file_path_sans_ext(paths)) %>% 
   dplyr::select(-name)
 
@@ -76,7 +77,7 @@ dplyr::mutate(
 ## Scripts utilizados em aula
 
 ```{r}
-pasta <- "exemplos_de_aula/"
+pasta <- "exemplos/"
 
 
 knitr::kable(
@@ -84,7 +85,7 @@ knitr::kable(
     script = CursoRopen:::list_github_files(params$main_repo, pasta, ".R$"),
     link = paste0(
       "https://github.com/curso-r/",
-      params$turma,
+      params$main_repo,
       "/blob/master/",
       script
     )
