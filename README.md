@@ -3,34 +3,33 @@
 
 ## Informações importantes
 
-  - Nosso blog: <https://curso-r.com/blog/>
+-   Nosso blog: <https://curso-r.com/blog/>
 
-  - Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
+-   Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
     [Zen do R](https://curso-r.github.io/zen-do-r/)
 
 ## Dúvidas
 
 Fora do horário de aula ou monitoria:
 
-  - perguntas gerais sobre o curso deverão ser feitas no Classroom.
+-   perguntas gerais sobre o curso deverão ser feitas no Classroom.
 
-  - perguntas sobre R, principalmente as que envolverem código, deverão
+-   perguntas sobre R, principalmente as que envolverem código, deverão
     ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 ## Slides
 
 | slides                                                                                                    | pdf                                                                                                     |
-| :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+|:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
 | [00-intro-curso.html](https://curso-r.github.io/main-intro-ml/slides/00-intro-curso.html)                 | [00-intro-curso.pdf](https://curso-r.github.io/main-intro-ml/slides/00-intro-curso.pdf)                 |
 | [01-intro-ml.html](https://curso-r.github.io/main-intro-ml/slides/01-intro-ml.html)                       | [01-intro-ml.pdf](https://curso-r.github.io/main-intro-ml/slides/01-intro-ml.pdf)                       |
 | [02-intro-classificacao.html](https://curso-r.github.io/main-intro-ml/slides/02-intro-classificacao.html) | [02-intro-classificacao.pdf](https://curso-r.github.io/main-intro-ml/slides/02-intro-classificacao.pdf) |
-| [03-dataprep-pt2.html](https://curso-r.github.io/main-intro-ml/slides/03-dataprep-pt2.html)               | [03-dataprep-pt2.pdf](https://curso-r.github.io/main-intro-ml/slides/03-dataprep-pt2.pdf)               |
 | [03-modelos-de-arvores.html](https://curso-r.github.io/main-intro-ml/slides/03-modelos-de-arvores.html)   | [03-modelos-de-arvores.pdf](https://curso-r.github.io/main-intro-ml/slides/03-modelos-de-arvores.pdf)   |
 
 ## Scripts utilizados em aula
 
 | script                                                                                                                  |
-| :---------------------------------------------------------------------------------------------------------------------- |
+|:------------------------------------------------------------------------------------------------------------------------|
 | [exemplos/01-tidymodels.R](https://github.com/curso-r/main-intro-ml/blob/master/exemplos/01-tidymodels.R)               |
 | [exemplos/02-overfitting.R](https://github.com/curso-r/main-intro-ml/blob/master/exemplos/02-overfitting.R)             |
 | [exemplos/03-cross-validation.R](https://github.com/curso-r/main-intro-ml/blob/master/exemplos/03-cross-validation.R)   |
@@ -47,7 +46,7 @@ Fora do horário de aula ou monitoria:
 ## Lição de casa
 
 | exercicio                                                                                                      |
-| :------------------------------------------------------------------------------------------------------------- |
+|:---------------------------------------------------------------------------------------------------------------|
 | [exercicios/01-tuning.R](https://curso-r.github.io/main-intro-ml/exercicios/01-tuning.R)                       |
 | [exercicios/02-classification.R](https://curso-r.github.io/main-intro-ml/exercicios/02-classification.R)       |
 | [exercicios/03-arvore-de-decisao.R](https://curso-r.github.io/main-intro-ml/exercicios/03-arvore-de-decisao.R) |
@@ -55,8 +54,8 @@ Fora do horário de aula ou monitoria:
 
 ## Trabalhos finais premiados
 
-| pasta\_compactada |
-| :---------------- |
+| pasta_compactada |
+|:-----------------|
 
 ## Material extra
 
@@ -65,7 +64,7 @@ que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
 | Aula | Tema | Descrição |
-| :--- | :--- | :-------- |
+|:-----|:-----|:----------|
 
 ## Redes sociais da Curso-R
 
